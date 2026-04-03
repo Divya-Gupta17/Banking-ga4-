@@ -1,6 +1,6 @@
 {
-  "buildCommand": "cd bfsi_site && npm run build",
-  "devCommand": "cd bfsi_site && npm run dev",
-  "installCommand": "cd bfsi_site && npm install",
-  "outputDirectory": "bfsi_site/.next"
+  "buildCommand": "npm run build",
+  "devCommand": "npm run dev",
+  "installCommand": "npm install",
+  "outputDirectory": ".next"
 }
